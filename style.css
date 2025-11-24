@@ -94,11 +94,11 @@ h4{
   box-sizing: border-box;
   padding: 120px;
   z-index: -1;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 .card .details h4{
   text-align: center;
 }
-.text-left {
+.text-right {
   text-align: left;
 }
