@@ -90,11 +90,11 @@ h4{
 .card .details{
   position: absolute;
   top: 0%;
-  left: 50%;
+  left: 0%;
   box-sizing: border-box;
   padding: 120px;
   z-index: -1;
-  margin-top: 50px;
+  margin-top: 80px;
 }
 .card .details h4{
   text-align: center;
