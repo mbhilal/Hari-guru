@@ -89,12 +89,12 @@ h4{
 }
 .card .details{
   position: absolute;
-  top: 50%;
+  top: 0%;
   left: 50%;
   box-sizing: border-box;
   padding: 120px;
   z-index: -1;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 .card .details h4{
   text-align: center;
